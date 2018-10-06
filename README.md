@@ -1,2 +1,2 @@
 # IFeatureExtraction
-Different Feature Extractor from Image
+Collection of Image Feature Extractors.
